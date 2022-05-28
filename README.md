@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Ramon Campos</h1>
-<h3 align="center">Um apaixonado por análise de dados</h3>
+<h3 align="center">Graduando em Ciência da Computação</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Visualização de Dados**
 
