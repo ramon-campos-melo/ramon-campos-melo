@@ -15,7 +15,7 @@
   <a href="https://instagram.com/ramon.cmps" target="blank"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="ramon.cmps" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Habilidades e Ferramentas:</h3>
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> 
