@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou Ramon Campos</h1>
 <h3 align="center">Graduando em Ciência da Computação</h3>
 
-- 🌱 Atualmente focado e comprometido com os estudos na área da análide de dados.
+- 🌱 Não sou fã de praia, mas a ciência de dados é a minha!
 
-- 💬 Pergunte-me sobre **Excel, SQL e Python**
+- 💬 Pergunte-me sobre **Excel, SQL e Python**...
 
-- 📫 Envie um e-mail para **ramonramalhoc@gmail.com**
+- 📫 Fale comigo através do e-mail: **ramonramalhoc@gmail.com**
 
 - 📄 Saiba mais sobre o meu perfil profissional no [**LinkedIn**](https://www.linkedin.com/in/ramonr-campos/)
 
