@@ -20,7 +20,7 @@
 <p align="left">
   <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="40" height="40"/>&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="mssql" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
+  <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="postgresql" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
