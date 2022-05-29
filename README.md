@@ -7,7 +7,7 @@
 
 - 📫 Encontre-me através do e-mail **ramonramalhoc@gmail.com**
 
-- 📄 Saiba sobre o meu perfil profissional [https://www.linkedin.com/in/ramonr-campos/](https://www.linkedin.com/in/ramonr-campos/)
+- 📄 Saiba mais sobre o meu perfil profissional no [**LinkedIn**](https://www.linkedin.com/in/ramonr-campos/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
