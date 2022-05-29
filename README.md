@@ -5,11 +5,11 @@
 
 - 💬 Pergunte-me sobre **Excel, SQL e Python**
 
-- 📫 Encontre-me através do e-mail **ramonramalhoc@gmail.com**
+- 📫 Envie um e-mail para **ramonramalhoc@gmail.com**
 
 - 📄 Saiba mais sobre o meu perfil profissional no [**LinkedIn**](https://www.linkedin.com/in/ramonr-campos/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ramonr-campos" target="blank"> <img align="center" src="https://www.svgrepo.com/show/355096/linkedin.svg" alt="ramonr-campos" height="30" width="30" /></a> &nbsp&nbsp&nbsp&nbsp
   <a href="https://instagram.com/ramon.cmps" target="blank"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="ramon.cmps" height="30" width="30" /></a>
