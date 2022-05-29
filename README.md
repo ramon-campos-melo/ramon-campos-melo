@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou Ramon Campos</h1>
-<h3 align="center">Graduando em Ciência da Computação</h3>
+<h1 align="center">👋 Olá, eu sou Ramon Campos</h1>
+<h3 align="center">Graduando em Ciência da Computação</h3><br>
 
 - 🌱 Não sou fã de praia, mas a ciência de dados é a minha!
 
