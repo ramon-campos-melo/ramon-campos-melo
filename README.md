@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Ramon Campos</h1>
 <h3 align="center">Graduando em Ciência da Computação</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Visualização de Dados**
+- 🌱 Atualmente focado e comprometido com os estudos na área da análide de dados.
 
 - 💬 Pergunte-me sobre **Excel, SQL e Python**
 
