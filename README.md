@@ -23,8 +23,6 @@
   </a> &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.microsoft.com/en-us/sql-server/">
     <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="mssql" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.tableau.com/">
     <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.python.org/">
