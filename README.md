@@ -26,5 +26,7 @@
   <a href="https://www.tableau.com/">
     <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.oracle.com/br/database/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="python" width="60" height="60"/>
 </p>
