@@ -3,9 +3,7 @@
 
 - 🌱 Não sou fã de praia, mas a ciência de dados é a minha!
 
-- 💬 Pergunte-me sobre **Excel, SQL e Python**...
-
-- 📫 Fale comigo através do e-mail: **ramonramalhoc@gmail.com**
+- 💬 Pergunte-me sobre **Excel, SQL e Python**
 
 - 📄 Saiba mais sobre o meu perfil profissional no [**LinkedIn**](https://www.linkedin.com/in/ramonr-campos/)
 
