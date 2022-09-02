@@ -6,10 +6,10 @@
 
 <!--- STATS --->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ramon-campos">
-  <img height = "180" src="https://github-readme-stats.vercel.app/api?username=ramon-campos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-campos&layout=compact&langs_count=7&theme=dark"/>
+  <img height = "180" src="https://github-readme-stats.vercel.app/api?username=ramon-campos&border_radius=20&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height = "180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-campos&layout=default&langs_count=7&hide_border=true&theme=dark&border_radius=20"/>
 </div>
 
 <br>
@@ -22,8 +22,8 @@
   <img align = "center" alt = "ramon-excel" height = "50" width = "50" src = "https://img.icons8.com/color/452/microsoft-excel-2019--v1.png">
   <img align = "center" alt = "ramon-sqlite" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align = "center" alt = "ramon-mysql" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align = "center" alt = "ramon-tableau" height = "50" width = "50" src = "https://img.icons8.com/color/344/tableau-software.png">
   <img align = "center" alt = "ramon-oracledb" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align = "center" alt = "ramon-tableau" height = "50" width = "50" src = "https://img.icons8.com/color/344/tableau-software.png">
   <img align = "center" alt = "ramon-python" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align = "center" alt = "ramon-numpy" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align = "center" alt = "ramon-pandas" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
