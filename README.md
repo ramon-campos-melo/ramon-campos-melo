@@ -9,21 +9,22 @@ Graduando de Ciência da Computação e trilhando a área de Data Science.
 
 ## 🔗 Links
 
-![Perfil DIO](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-30A3DC?style=for-the-badge&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-292524?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![Email](https://img.shields.io/badge/E--mail-292524?style=for-the-badge&logo=maildotru&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
+![DIO](https://img.shields.io/badge/Meu_Perfil_na_DIO-30A3DC?style=for-the-badge&link=https://web.dio.me/users/ramon_campos)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-2d3436?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/ramonr-campos/)
+![Email](https://img.shields.io/badge/E--mail-2d3436?style=for-the-badge&logo=maildotru&link=mailto:ramonramalhoc@gmail.com)
 
 ## 🛠️  Habilidades
 
-![Python](https://img.shields.io/badge/Python-292524?style=for-the-badge&logo=python&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![SQL](https://img.shields.io/badge/SQL-292524?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![Power BI](https://img.shields.io/badge/Power_BI-292524?style=for-the-badge&logo=powerbi&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![MS Excel](https://img.shields.io/badge/Excel-292524?style=for-the-badge&logo=microsoftexcel&logoColor=217346&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![WordPress](https://img.shields.io/badge/WordPress-292524?style=for-the-badge&logo=wordpress&logoColor=21759B&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![HTML](https://img.shields.io/badge/HTML-292524?style=for-the-badge&logo=html5&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![CSS](https://img.shields.io/badge/CSS-292524?style=for-the-badge&logo=css3&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![Git](https://img.shields.io/badge/git-292524?style=for-the-badge&logo=git&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
-![GitHub](https://img.shields.io/badge/GitHub-292524?style=for-the-badge&logo=GitHub&link=https%3A%2F%2Fweb.dio.me%2Fusers%2Framon_campos)
+![Python](https://img.shields.io/badge/Python-2d3436?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-2d3436?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Power BI](https://img.shields.io/badge/Power_BI-2d3436?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Microsoft Excel](https://img.shields.io/badge/Excel-2d3436?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Microsoft Word](https://img.shields.io/badge/Word-2d3436?style=for-the-badge&logo=microsoftword&logoColor=2B579A)
+![WordPress](https://img.shields.io/badge/WordPress-2d3436?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![HTML](https://img.shields.io/badge/HTML-2d3436?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-2d3436?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/git-2d3436?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-2d3436?style=for-the-badge&logo=GitHub&logoColor=181717)
 
 <!--
 
