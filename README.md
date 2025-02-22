@@ -9,7 +9,7 @@ Graduado em Ciência da Computação e trilhando a área de Data Science.
 
 ## 🔗 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2d3436?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ramon-campos-melo/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-campos-melo/)
 [![E-mail](https://img.shields.io/badge/-Email-2d3436?style=for-the-badge&logo=maildotru&logoColor=D4D4D4&)](mailto:ramonramalhoc@gmail.com)
 
 ## 🛠️  Core Skills
