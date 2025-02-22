@@ -37,8 +37,8 @@ Graduando de Ciência da Computação e trilhando a área de Data Science.
 
 ## Meus Principais Desafios de Projeto
 
-[![Compressão de Imagens com Decomposição em Valores Singulares (SVD)](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=image-compression-svd&theme=nord)](https://github.com/ramon-campos/image-compression-svd)
-[![Chinook Database](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=chinook-database&theme=nord)](https://github.com/ramon-campos/chinook-database)
+[![Compressão de Imagens com Decomposição em Valores Singulares (SVD)](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=image-compression-svd&theme=shadow_blue)](https://github.com/ramon-campos/image-compression-svd)
+[![Chinook Database](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=chinook-database&theme=shadow_blue)](https://github.com/ramon-campos/chinook-database)
 
 <!-- ICONS -->
 
