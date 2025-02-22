@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Ramon R. Campos Melo! 👋
 
-Graduando de Ciência da Computação e trilhando a área de Data Science.
+Graduado em Ciência da Computação e trilhando a área de Data Science.
 
 <!---
 ## 🧑🏻‍💻 Sobre mim
@@ -13,18 +13,17 @@ Graduando de Ciência da Computação e trilhando a área de Data Science.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2d3436?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ramonr-campos/)
 [![E-mail](https://img.shields.io/badge/-Email-2d3436?style=for-the-badge&logo=maildotru&logoColor=D4D4D4&)](mailto:ramonramalhoc@gmail.com)
 
-## 🛠️  Habilidades
+## 🛠️  Core Skills
 
-![Python](https://img.shields.io/badge/Python-2d3436?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-2d3436?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![Power BI](https://img.shields.io/badge/Power_BI-2d3436?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Microsoft Excel](https://img.shields.io/badge/Excel-2d3436?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Microsoft Word](https://img.shields.io/badge/Word-2d3436?style=for-the-badge&logo=microsoftword&logoColor=2B579A)
-![WordPress](https://img.shields.io/badge/WordPress-2d3436?style=for-the-badge&logo=wordpress&logoColor=21759B)
-![HTML](https://img.shields.io/badge/HTML-2d3436?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-2d3436?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/git-2d3436?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-2d3436?style=for-the-badge&logo=GitHub&logoColor=181717)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <!--
 
