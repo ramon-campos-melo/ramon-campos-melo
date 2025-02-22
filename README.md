@@ -37,8 +37,8 @@ Graduando de Ciência da Computação e trilhando a área de Data Science.
 
 ## Meus Principais Desafios de Projeto
 
-[![Sistema Bancário](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=image-compression-svd&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ramon-campos/sistema-bancario)
-[![Chinook Database](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=chinook-database&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ramon-campos/chinook-database)
+[![Compressão de Imagens com Decomposição em Valores Singulares (SVD)](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=image-compression-svd&theme=nord)](https://github.com/ramon-campos/image-compression-svd)
+[![Chinook Database](https://github-readme-stats.vercel.app/api/pin/?username=ramon-campos&repo=chinook-database&theme=nord)](https://github.com/ramon-campos/chinook-database)
 
 <!-- ICONS -->
 
