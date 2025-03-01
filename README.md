@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Ramon R. Campos Melo! 👋
 
-Graduado em Ciência da Computação e trilhando a área de Data Science.
+Graduado em Ciência da Computação e trilhando a área de Data Analytics e Data Science.
 
 <!---
 ## 🧑🏻‍💻 Sobre mim
